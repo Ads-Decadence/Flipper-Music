@@ -1,0 +1,1 @@
+GarbageHappyWhenRain:d=32,o=6,b=40:p,d#.,d.,c.,d.,c.,d.,c.,4e.,16p,d#.,d.,c.,d.,c.,d.,c.,16e.,a.5,16c.,8d

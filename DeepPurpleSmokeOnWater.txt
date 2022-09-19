@@ -1,0 +1,1 @@
+DeepPurpleSmokeOnWater:d=4,o=5,b=125:32p,c,d#,f.,c,d#,8f#,f,p,c,d#,f.,d#,c,2p,8p,c,d#,f.,c,d#,8f#,f,p,c,d#,f.,d#,c,p
